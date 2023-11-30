@@ -1,5 +1,4 @@
 pybase64
 pytube
-tempfile
 os
 streamlit
