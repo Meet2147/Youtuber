@@ -43,7 +43,7 @@
 import streamlit as st
 from pytube import YouTube
 import os
-
+import base64
 # Create a Streamlit web app
 st.title("YouTube Video Downloader")
 
